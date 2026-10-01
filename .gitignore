@@ -6,4 +6,5 @@ dependency-reduced-pom.xml
 .idea/
 *.iml
 .vscode/
-.DS_Store
+.DS_Storestep*.ps1 
+fix-bom.ps1 
