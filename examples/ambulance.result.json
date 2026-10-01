@@ -1,0 +1,2039 @@
+{
+  "generatedCombinations" : 136,
+  "feasibleCombinations" : 136,
+  "truncated" : false,
+  "rankedSolutions" : [ {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 1.7199999999999998,
+    "risk" : 0.51,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 1.4649999999999999,
+    "explanation" : [ "Score=1.465000", "ExpectedBenefit=1.720000", "Risk=0.510000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P3, A2->P1, A3->P2]", "Advantage over next solution: 0.090000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 1.5999999999999999,
+    "risk" : 0.45,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 1.3749999999999998,
+    "explanation" : [ "Score=1.375000", "ExpectedBenefit=1.600000", "Risk=0.450000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P3, A2->P1, A3->P5]", "Advantage over next solution: 0.004500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 1.657,
+    "risk" : 0.5730000000000001,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 1.3705,
+    "explanation" : [ "Score=1.370500", "ExpectedBenefit=1.657000", "Risk=0.573000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P3, A2->P2, A3->P1]", "Advantage over next solution: 0.100750" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 1.9565000000000001,
+    "risk" : 0.2735000000000001,
+    "totalCost" : 11.0,
+    "softPenalty" : 0.0,
+    "score" : 1.26975,
+    "explanation" : [ "Score=1.269750", "ExpectedBenefit=1.956500", "Risk=0.273500", "TotalCost=11.000000", "SoftPenalty=0.000000", "Assignments=[A1->P2, A2->P1, A3->P3]", "Advantage over next solution: 0.026250" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 1.389,
+    "risk" : 0.291,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 1.2435,
+    "explanation" : [ "Score=1.243500", "ExpectedBenefit=1.389000", "Risk=0.291000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P2, A2->P1, A3->P5]", "Advantage over next solution: 0.012500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 1.444,
+    "risk" : 0.42600000000000005,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 1.2309999999999999,
+    "explanation" : [ "Score=1.231000", "ExpectedBenefit=1.444000", "Risk=0.426000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P3, A2->P1, A3->P4]", "Advantage over next solution: 0.001000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 1.38,
+    "risk" : 0.30000000000000004,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 1.23,
+    "explanation" : [ "Score=1.230000", "ExpectedBenefit=1.380000", "Risk=0.300000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P5, A2->P1, A3->P2]", "Advantage over next solution: 0.012500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 1.495,
+    "risk" : 0.555,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 1.2175,
+    "explanation" : [ "Score=1.217500", "ExpectedBenefit=1.495000", "Risk=0.555000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P3, A2->P5, A3->P1]", "Advantage over next solution: 0.051250" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 1.8275000000000001,
+    "risk" : 0.2225000000000001,
+    "totalCost" : 11.0,
+    "softPenalty" : 0.0,
+    "score" : 1.16625,
+    "explanation" : [ "Score=1.166250", "ExpectedBenefit=1.827500", "Risk=0.222500", "TotalCost=11.000000", "SoftPenalty=0.000000", "Assignments=[A1->P5, A2->P1, A3->P3]", "Advantage over next solution: 0.001250" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 1.3599999999999999,
+    "risk" : 0.39,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 1.1649999999999998,
+    "explanation" : [ "Score=1.165000", "ExpectedBenefit=1.360000", "Risk=0.390000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P3, A2->P1]", "Advantage over next solution: 0.029500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 1.3170000000000002,
+    "risk" : 0.3630000000000001,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 1.1355000000000002,
+    "explanation" : [ "Score=1.135500", "ExpectedBenefit=1.317000", "Risk=0.363000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P5, A2->P2, A3->P1]", "Advantage over next solution: 0.027000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 1.2389999999999999,
+    "risk" : 0.261,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 1.1084999999999998,
+    "explanation" : [ "Score=1.108500", "ExpectedBenefit=1.239000", "Risk=0.261000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P4, A2->P1, A3->P2]", "Advantage over next solution: 0.009000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 1.233,
+    "risk" : 0.267,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 1.0995000000000001,
+    "explanation" : [ "Score=1.099500", "ExpectedBenefit=1.233000", "Risk=0.267000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P2, A2->P1, A3->P4]", "Advantage over next solution: 0.013500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 1.284,
+    "risk" : 0.396,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 1.086,
+    "explanation" : [ "Score=1.086000", "ExpectedBenefit=1.284000", "Risk=0.396000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P2, A2->P5, A3->P1]", "Advantage over next solution: 0.000500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 1.267,
+    "risk" : 0.363,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 1.0855,
+    "explanation" : [ "Score=1.085500", "ExpectedBenefit=1.267000", "Risk=0.363000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P3, A2->P2, A3->P5]", "Advantage over next solution: 0.039000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 1.321,
+    "risk" : 0.5490000000000002,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 1.0465,
+    "explanation" : [ "Score=1.046500", "ExpectedBenefit=1.321000", "Risk=0.549000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P3, A2->P4, A3->P1]", "Advantage over next solution: 0.001750" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 1.6865,
+    "risk" : 0.18350000000000008,
+    "totalCost" : 11.0,
+    "softPenalty" : 0.0,
+    "score" : 1.04475,
+    "explanation" : [ "Score=1.044750", "ExpectedBenefit=1.686500", "Risk=0.183500", "TotalCost=11.000000", "SoftPenalty=0.000000", "Assignments=[A1->P4, A2->P1, A3->P3]", "Advantage over next solution: 0.011250" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 1.149,
+    "risk" : 0.231,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 1.0335,
+    "explanation" : [ "Score=1.033500", "ExpectedBenefit=1.149000", "Risk=0.231000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P2, A2->P1]", "Advantage over next solution: 0.011000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 1.225,
+    "risk" : 0.40499999999999997,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 1.0225000000000002,
+    "explanation" : [ "Score=1.022500", "ExpectedBenefit=1.225000", "Risk=0.405000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P3, A2->P5, A3->P2]", "Advantage over next solution: 0.004000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 1.119,
+    "risk" : 0.201,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 1.0185,
+    "explanation" : [ "Score=1.018500", "ExpectedBenefit=1.119000", "Risk=0.201000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P4, A2->P1, A3->P5]", "Advantage over next solution: 0.004500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 1.1760000000000002,
+    "risk" : 0.32400000000000007,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 1.0140000000000002,
+    "explanation" : [ "Score=1.014000", "ExpectedBenefit=1.176000", "Risk=0.324000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P4, A2->P2, A3->P1]", "Advantage over next solution: 0.016500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 1.125,
+    "risk" : 0.255,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.9975,
+    "explanation" : [ "Score=0.997500", "ExpectedBenefit=1.125000", "Risk=0.255000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A2->P1, A3->P2]", "Advantage over next solution: 0.001500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 1.104,
+    "risk" : 0.21600000000000005,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.9960000000000001,
+    "explanation" : [ "Score=0.996000", "ExpectedBenefit=1.104000", "Risk=0.216000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P5, A2->P1, A3->P4]", "Advantage over next solution: 0.033500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 1.225,
+    "risk" : 0.5250000000000001,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.9625,
+    "explanation" : [ "Score=0.962500", "ExpectedBenefit=1.225000", "Risk=0.525000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P3, A3->P1]", "Advantage over next solution: 0.021000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 1.111,
+    "risk" : 0.33899999999999997,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.9415,
+    "explanation" : [ "Score=0.941500", "ExpectedBenefit=1.111000", "Risk=0.339000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P3, A2->P2, A3->P4]", "Advantage over next solution: 0.007750" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 1.5725,
+    "risk" : 0.17750000000000007,
+    "totalCost" : 11.0,
+    "softPenalty" : 0.0,
+    "score" : 0.9337499999999999,
+    "explanation" : [ "Score=0.933750", "ExpectedBenefit=1.572500", "Risk=0.177500", "TotalCost=11.000000", "SoftPenalty=0.000000", "Assignments=[A2->P1, A3->P3]", "Advantage over next solution: 0.003750" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 1.02,
+    "risk" : 0.18000000000000005,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.9299999999999999,
+    "explanation" : [ "Score=0.930000", "ExpectedBenefit=1.020000", "Risk=0.180000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P5, A2->P1]", "Advantage over next solution: 0.015000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 1.1099999999999999,
+    "risk" : 0.39,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.9149999999999998,
+    "explanation" : [ "Score=0.915000", "ExpectedBenefit=1.110000", "Risk=0.390000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P2, A2->P4, A3->P1]", "Advantage over next solution: 0.005750" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 2.0495,
+    "risk" : 0.1805,
+    "totalCost" : 21.0,
+    "softPenalty" : 0.0,
+    "score" : 0.9092500000000001,
+    "explanation" : [ "Score=0.909250", "ExpectedBenefit=2.049500", "Risk=0.180500", "TotalCost=21.000000", "SoftPenalty=0.000000", "Assignments=[A1->P1, A2->P2, A3->P3]", "Advantage over next solution: 0.001750" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 1.005,
+    "risk" : 0.195,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.9074999999999999,
+    "explanation" : [ "Score=0.907500", "ExpectedBenefit=1.005000", "Risk=0.195000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A2->P1, A3->P5]", "Advantage over next solution: 0.004500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 1.062,
+    "risk" : 0.31800000000000006,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.903,
+    "explanation" : [ "Score=0.903000", "ExpectedBenefit=1.062000", "Risk=0.318000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A2->P2, A3->P1]", "Advantage over next solution: 0.020000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 1.482,
+    "risk" : 0.19799999999999995,
+    "totalCost" : 10.0,
+    "softPenalty" : 0.0,
+    "score" : 0.883,
+    "explanation" : [ "Score=0.883000", "ExpectedBenefit=1.482000", "Risk=0.198000", "TotalCost=10.000000", "SoftPenalty=0.000000", "Assignments=[A1->P1, A2->P2, A3->P5]", "Advantage over next solution: 0.006250" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 1.4945,
+    "risk" : 0.13550000000000004,
+    "totalCost" : 11.0,
+    "softPenalty" : 0.0,
+    "score" : 0.8767499999999999,
+    "explanation" : [ "Score=0.876750", "ExpectedBenefit=1.494500", "Risk=0.135500", "TotalCost=11.000000", "SoftPenalty=0.000000", "Assignments=[A1->P5, A2->P2, A3->P3]", "Advantage over next solution: 0.001250" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 1.027,
+    "risk" : 0.303,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.8755,
+    "explanation" : [ "Score=0.875500", "ExpectedBenefit=1.027000", "Risk=0.303000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P3, A2->P2]", "Advantage over next solution: 0.014500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 1.014,
+    "risk" : 0.30600000000000005,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.861,
+    "explanation" : [ "Score=0.861000", "ExpectedBenefit=1.014000", "Risk=0.306000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P4, A2->P5, A3->P1]", "Advantage over next solution: 0.009500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 1.051,
+    "risk" : 0.399,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.8514999999999999,
+    "explanation" : [ "Score=0.851500", "ExpectedBenefit=1.051000", "Risk=0.399000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P3, A2->P4, A3->P2]", "Advantage over next solution: 0.020500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 1.014,
+    "risk" : 0.36600000000000005,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.831,
+    "explanation" : [ "Score=0.831000", "ExpectedBenefit=1.014000", "Risk=0.366000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P2, A3->P1]", "Advantage over next solution: 0.003750" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 1.4615,
+    "risk" : 0.1685,
+    "totalCost" : 11.0,
+    "softPenalty" : 0.0,
+    "score" : 0.82725,
+    "explanation" : [ "Score=0.827250", "ExpectedBenefit=1.461500", "Risk=0.168500", "TotalCost=11.000000", "SoftPenalty=0.000000", "Assignments=[A1->P2, A2->P5, A3->P3]", "Advantage over next solution: 0.007250" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 1.44,
+    "risk" : 0.23999999999999996,
+    "totalCost" : 10.0,
+    "softPenalty" : 0.0,
+    "score" : 0.8200000000000001,
+    "explanation" : [ "Score=0.820000", "ExpectedBenefit=1.440000", "Risk=0.240000", "TotalCost=10.000000", "SoftPenalty=0.000000", "Assignments=[A1->P1, A2->P5, A3->P2]", "Advantage over next solution: 0.008500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 0.981,
+    "risk" : 0.3390000000000001,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.8114999999999999,
+    "explanation" : [ "Score=0.811500", "ExpectedBenefit=0.981000", "Risk=0.339000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P5, A2->P4, A3->P1]", "Advantage over next solution: 0.003000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 0.879,
+    "risk" : 0.14100000000000004,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.8085,
+    "explanation" : [ "Score=0.808500", "ExpectedBenefit=0.879000", "Risk=0.141000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P4, A2->P1]", "Advantage over next solution: 0.020000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 0.949,
+    "risk" : 0.32099999999999995,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.7885,
+    "explanation" : [ "Score=0.788500", "ExpectedBenefit=0.949000", "Risk=0.321000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P3, A2->P5, A3->P4]", "Advantage over next solution: 0.021000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 0.955,
+    "risk" : 0.375,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.7675,
+    "explanation" : [ "Score=0.767500", "ExpectedBenefit=0.955000", "Risk=0.375000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P3, A3->P2]", "Advantage over next solution: 0.004000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 0.849,
+    "risk" : 0.17100000000000004,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.7635,
+    "explanation" : [ "Score=0.763500", "ExpectedBenefit=0.849000", "Risk=0.171000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A2->P1, A3->P4]", "Advantage over next solution: 0.002000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 0.9309999999999999,
+    "risk" : 0.339,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.7615,
+    "explanation" : [ "Score=0.761500", "ExpectedBenefit=0.931000", "Risk=0.339000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P3, A2->P4, A3->P5]", "Advantage over next solution: 0.005250" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 1.8875000000000002,
+    "risk" : 0.1625,
+    "totalCost" : 21.0,
+    "softPenalty" : 0.0,
+    "score" : 0.7562500000000001,
+    "explanation" : [ "Score=0.756250", "ExpectedBenefit=1.887500", "Risk=0.162500", "TotalCost=21.000000", "SoftPenalty=0.000000", "Assignments=[A1->P1, A2->P5, A3->P3]", "Advantage over next solution: 0.001000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 1.3535,
+    "risk" : 0.09650000000000003,
+    "totalCost" : 11.0,
+    "softPenalty" : 0.0,
+    "score" : 0.75525,
+    "explanation" : [ "Score=0.755250", "ExpectedBenefit=1.353500", "Risk=0.096500", "TotalCost=11.000000", "SoftPenalty=0.000000", "Assignments=[A1->P4, A2->P2, A3->P3]", "Advantage over next solution: 0.005250" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 0.9,
+    "risk" : 0.30000000000000004,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.75,
+    "explanation" : [ "Score=0.750000", "ExpectedBenefit=0.900000", "Risk=0.300000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A2->P5, A3->P1]", "Advantage over next solution: 0.011000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 1.326,
+    "risk" : 0.17399999999999996,
+    "totalCost" : 10.0,
+    "softPenalty" : 0.0,
+    "score" : 0.7390000000000001,
+    "explanation" : [ "Score=0.739000", "ExpectedBenefit=1.326000", "Risk=0.174000", "TotalCost=10.000000", "SoftPenalty=0.000000", "Assignments=[A1->P1, A2->P2, A3->P4]", "Advantage over next solution: 0.010000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 0.786,
+    "risk" : 0.11399999999999998,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.7290000000000001,
+    "explanation" : [ "Score=0.729000", "ExpectedBenefit=0.786000", "Risk=0.114000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P4, A2->P2, A3->P5]", "Advantage over next solution: 0.001500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 0.885,
+    "risk" : 0.31500000000000006,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.7275,
+    "explanation" : [ "Score=0.727500", "ExpectedBenefit=0.885000", "Risk=0.315000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P5, A3->P1]", "Advantage over next solution: 0.005000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 0.865,
+    "risk" : 0.285,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.7225,
+    "explanation" : [ "Score=0.722500", "ExpectedBenefit=0.865000", "Risk=0.285000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P3, A2->P5]", "Advantage over next solution: 0.016000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 0.771,
+    "risk" : 0.129,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.7065,
+    "explanation" : [ "Score=0.706500", "ExpectedBenefit=0.771000", "Risk=0.129000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P5, A2->P2, A3->P4]", "Advantage over next solution: 0.009000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 0.765,
+    "risk" : 0.13500000000000004,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.6975,
+    "explanation" : [ "Score=0.697500", "ExpectedBenefit=0.765000", "Risk=0.135000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A2->P1]", "Advantage over next solution: 0.020000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 0.835,
+    "risk" : 0.315,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.6775,
+    "explanation" : [ "Score=0.677500", "ExpectedBenefit=0.835000", "Risk=0.315000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P3, A3->P5]", "Advantage over next solution: 0.004500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 1.242,
+    "risk" : 0.13799999999999996,
+    "totalCost" : 10.0,
+    "softPenalty" : 0.0,
+    "score" : 0.673,
+    "explanation" : [ "Score=0.673000", "ExpectedBenefit=1.242000", "Risk=0.138000", "TotalCost=10.000000", "SoftPenalty=0.000000", "Assignments=[A1->P1, A2->P2]", "Advantage over next solution: 0.007000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 0.744,
+    "risk" : 0.156,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.666,
+    "explanation" : [ "Score=0.666000", "ExpectedBenefit=0.744000", "Risk=0.156000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P4, A2->P5, A3->P2]", "Advantage over next solution: 0.009000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 0.738,
+    "risk" : 0.16199999999999998,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.657,
+    "explanation" : [ "Score=0.657000", "ExpectedBenefit=0.738000", "Risk=0.162000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P2, A2->P5, A3->P4]", "Advantage over next solution: 0.000750" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 1.2875,
+    "risk" : 0.1625,
+    "totalCost" : 11.0,
+    "softPenalty" : 0.0,
+    "score" : 0.65625,
+    "explanation" : [ "Score=0.656250", "ExpectedBenefit=1.287500", "Risk=0.162500", "TotalCost=11.000000", "SoftPenalty=0.000000", "Assignments=[A1->P2, A2->P4, A3->P3]", "Advantage over next solution: 0.007250" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 1.266,
+    "risk" : 0.23399999999999999,
+    "totalCost" : 10.0,
+    "softPenalty" : 0.0,
+    "score" : 0.649,
+    "explanation" : [ "Score=0.649000", "ExpectedBenefit=1.266000", "Risk=0.234000", "TotalCost=10.000000", "SoftPenalty=0.000000", "Assignments=[A1->P1, A2->P4, A3->P2]", "Advantage over next solution: 0.004750" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 1.2395,
+    "risk" : 0.09050000000000002,
+    "totalCost" : 11.0,
+    "softPenalty" : 0.0,
+    "score" : 0.64425,
+    "explanation" : [ "Score=0.644250", "ExpectedBenefit=1.239500", "Risk=0.090500", "TotalCost=11.000000", "SoftPenalty=0.000000", "Assignments=[A2->P2, A3->P3]", "Advantage over next solution: 0.003750" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 0.687,
+    "risk" : 0.093,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.6405000000000001,
+    "explanation" : [ "Score=0.640500", "ExpectedBenefit=0.687000", "Risk=0.093000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P5, A2->P2]", "Advantage over next solution: 0.010500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 0.72,
+    "risk" : 0.17999999999999994,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.63,
+    "explanation" : [ "Score=0.630000", "ExpectedBenefit=0.720000", "Risk=0.180000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P2, A2->P4, A3->P5]", "Advantage over next solution: 0.012000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 0.6719999999999999,
+    "risk" : 0.10799999999999997,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.618,
+    "explanation" : [ "Score=0.618000", "ExpectedBenefit=0.672000", "Risk=0.108000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A2->P2, A3->P5]", "Advantage over next solution: 0.001500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 0.711,
+    "risk" : 0.189,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.6164999999999999,
+    "explanation" : [ "Score=0.616500", "ExpectedBenefit=0.711000", "Risk=0.189000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P5, A2->P4, A3->P2]", "Advantage over next solution: 0.010500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 0.744,
+    "risk" : 0.2760000000000001,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.606,
+    "explanation" : [ "Score=0.606000", "ExpectedBenefit=0.744000", "Risk=0.276000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P4, A3->P1]", "Advantage over next solution: 0.003750" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 1.1915,
+    "risk" : 0.07850000000000004,
+    "totalCost" : 11.0,
+    "softPenalty" : 0.0,
+    "score" : 0.60225,
+    "explanation" : [ "Score=0.602250", "ExpectedBenefit=1.191500", "Risk=0.078500", "TotalCost=11.000000", "SoftPenalty=0.000000", "Assignments=[A1->P4, A2->P5, A3->P3]", "Advantage over next solution: 0.011250" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 0.654,
+    "risk" : 0.12599999999999997,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.5910000000000001,
+    "explanation" : [ "Score=0.591000", "ExpectedBenefit=0.654000", "Risk=0.126000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P2, A2->P5]", "Advantage over next solution: 0.005000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 1.1640000000000001,
+    "risk" : 0.15599999999999997,
+    "totalCost" : 10.0,
+    "softPenalty" : 0.0,
+    "score" : 0.5860000000000001,
+    "explanation" : [ "Score=0.586000", "ExpectedBenefit=1.164000", "Risk=0.156000", "TotalCost=10.000000", "SoftPenalty=0.000000", "Assignments=[A1->P1, A2->P5, A3->P4]", "Advantage over next solution: 0.000750" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 1.7135,
+    "risk" : 0.15650000000000003,
+    "totalCost" : 21.0,
+    "softPenalty" : 0.0,
+    "score" : 0.58525,
+    "explanation" : [ "Score=0.585250", "ExpectedBenefit=1.713500", "Risk=0.156500", "TotalCost=21.000000", "SoftPenalty=0.000000", "Assignments=[A1->P1, A2->P4, A3->P3]", "Advantage over next solution: 0.006250" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 0.726,
+    "risk" : 0.29400000000000004,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.579,
+    "explanation" : [ "Score=0.579000", "ExpectedBenefit=0.726000", "Risk=0.294000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A2->P4, A3->P1]", "Advantage over next solution: 0.006750" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 1.1915,
+    "risk" : 0.1385,
+    "totalCost" : 11.0,
+    "softPenalty" : 0.0,
+    "score" : 0.5722499999999999,
+    "explanation" : [ "Score=0.572250", "ExpectedBenefit=1.191500", "Risk=0.138500", "TotalCost=11.000000", "SoftPenalty=0.000000", "Assignments=[A1->P2, A3->P3]", "Advantage over next solution: 0.001250" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 1.524,
+    "risk" : 0.7060000000000001,
+    "totalCost" : 12.0,
+    "softPenalty" : 0.0,
+    "score" : 0.571,
+    "explanation" : [ "Score=0.571000", "ExpectedBenefit=1.524000", "Risk=0.706000", "TotalCost=12.000000", "SoftPenalty=0.000000", "Assignments=[A1->P2, A2->P3, A3->P1]", "Advantage over next solution: 0.006000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 1.17,
+    "risk" : 0.20999999999999996,
+    "totalCost" : 10.0,
+    "softPenalty" : 0.0,
+    "score" : 0.565,
+    "explanation" : [ "Score=0.565000", "ExpectedBenefit=1.170000", "Risk=0.210000", "TotalCost=10.000000", "SoftPenalty=0.000000", "Assignments=[A1->P1, A3->P2]", "Advantage over next solution: 0.006000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 1.146,
+    "risk" : 0.17399999999999996,
+    "totalCost" : 10.0,
+    "softPenalty" : 0.0,
+    "score" : 0.5589999999999999,
+    "explanation" : [ "Score=0.559000", "ExpectedBenefit=1.146000", "Risk=0.174000", "TotalCost=10.000000", "SoftPenalty=0.000000", "Assignments=[A1->P1, A2->P4, A3->P5]", "Advantage over next solution: 0.004000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 0.63,
+    "risk" : 0.15,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.555,
+    "explanation" : [ "Score=0.555000", "ExpectedBenefit=0.630000", "Risk=0.150000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A2->P5, A3->P2]", "Advantage over next solution: 0.002250" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 1.1585,
+    "risk" : 0.11150000000000004,
+    "totalCost" : 11.0,
+    "softPenalty" : 0.0,
+    "score" : 0.5527500000000001,
+    "explanation" : [ "Score=0.552750", "ExpectedBenefit=1.158500", "Risk=0.111500", "TotalCost=11.000000", "SoftPenalty=0.000000", "Assignments=[A1->P5, A2->P4, A3->P3]", "Advantage over next solution: 0.001250" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 0.691,
+    "risk" : 0.279,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.5514999999999999,
+    "explanation" : [ "Score=0.551500", "ExpectedBenefit=0.691000", "Risk=0.279000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P3, A2->P4]", "Advantage over next solution: 0.005500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 0.624,
+    "risk" : 0.15599999999999997,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.546,
+    "explanation" : [ "Score=0.546000", "ExpectedBenefit=0.624000", "Risk=0.156000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P2, A3->P5]", "Advantage over next solution: 0.012500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 0.6789999999999999,
+    "risk" : 0.29100000000000004,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.5334999999999999,
+    "explanation" : [ "Score=0.533500", "ExpectedBenefit=0.679000", "Risk=0.291000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P3, A3->P4]", "Advantage over next solution: 0.001000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 0.615,
+    "risk" : 0.165,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.5325,
+    "explanation" : [ "Score=0.532500", "ExpectedBenefit=0.615000", "Risk=0.165000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P5, A3->P2]", "Advantage over next solution: 0.012500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 1.08,
+    "risk" : 0.11999999999999997,
+    "totalCost" : 10.0,
+    "softPenalty" : 0.0,
+    "score" : 0.52,
+    "explanation" : [ "Score=0.520000", "ExpectedBenefit=1.080000", "Risk=0.120000", "TotalCost=10.000000", "SoftPenalty=0.000000", "Assignments=[A1->P1, A2->P5]", "Advantage over next solution: 0.001000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 0.546,
+    "risk" : 0.05399999999999999,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.519,
+    "explanation" : [ "Score=0.519000", "ExpectedBenefit=0.546000", "Risk=0.054000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P4, A2->P2]", "Advantage over next solution: 0.017750" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 1.6175000000000002,
+    "risk" : 0.1325,
+    "totalCost" : 21.0,
+    "softPenalty" : 0.0,
+    "score" : 0.5012500000000002,
+    "explanation" : [ "Score=0.501250", "ExpectedBenefit=1.617500", "Risk=0.132500", "TotalCost=21.000000", "SoftPenalty=0.000000", "Assignments=[A1->P1, A3->P3]", "Advantage over next solution: 0.006250" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A3",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 0.63,
+    "risk" : 0.2700000000000001,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.495,
+    "explanation" : [ "Score=0.495000", "ExpectedBenefit=0.630000", "Risk=0.270000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A3->P1]", "Advantage over next solution: 0.003750" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 1.0775000000000001,
+    "risk" : 0.07250000000000004,
+    "totalCost" : 11.0,
+    "softPenalty" : 0.0,
+    "score" : 0.49124999999999996,
+    "explanation" : [ "Score=0.491250", "ExpectedBenefit=1.077500", "Risk=0.072500", "TotalCost=11.000000", "SoftPenalty=0.000000", "Assignments=[A2->P5, A3->P3]", "Advantage over next solution: 0.016250" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 1.05,
+    "risk" : 0.14999999999999997,
+    "totalCost" : 10.0,
+    "softPenalty" : 0.0,
+    "score" : 0.4750000000000001,
+    "explanation" : [ "Score=0.475000", "ExpectedBenefit=1.050000", "Risk=0.150000", "TotalCost=10.000000", "SoftPenalty=0.000000", "Assignments=[A1->P1, A3->P5]", "Advantage over next solution: 0.001000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 0.516,
+    "risk" : 0.08399999999999999,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.47400000000000003,
+    "explanation" : [ "Score=0.474000", "ExpectedBenefit=0.516000", "Risk=0.084000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A2->P2, A3->P4]", "Advantage over next solution: 0.005250" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 1.0625,
+    "risk" : 0.08750000000000005,
+    "totalCost" : 11.0,
+    "softPenalty" : 0.0,
+    "score" : 0.46875,
+    "explanation" : [ "Score=0.468750", "ExpectedBenefit=1.062500", "Risk=0.087500", "TotalCost=11.000000", "SoftPenalty=0.000000", "Assignments=[A1->P5, A3->P3]", "Advantage over next solution: 0.001250" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 0.595,
+    "risk" : 0.255,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.46749999999999997,
+    "explanation" : [ "Score=0.467500", "ExpectedBenefit=0.595000", "Risk=0.255000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P3]", "Advantage over next solution: 0.000000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 1.395,
+    "risk" : 0.655,
+    "totalCost" : 12.0,
+    "softPenalty" : 0.0,
+    "score" : 0.4674999999999998,
+    "explanation" : [ "Score=0.467500", "ExpectedBenefit=1.395000", "Risk=0.655000", "TotalCost=12.000000", "SoftPenalty=0.000000", "Assignments=[A1->P5, A2->P3, A3->P1]", "Advantage over next solution: 0.047500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 0.48,
+    "risk" : 0.11999999999999997,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.42,
+    "explanation" : [ "Score=0.420000", "ExpectedBenefit=0.480000", "Risk=0.120000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P2, A2->P4]", "Advantage over next solution: 0.009000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 0.474,
+    "risk" : 0.126,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.411,
+    "explanation" : [ "Score=0.411000", "ExpectedBenefit=0.474000", "Risk=0.126000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P4, A3->P2]", "Advantage over next solution: 0.003000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 0.432,
+    "risk" : 0.04799999999999999,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.40800000000000003,
+    "explanation" : [ "Score=0.408000", "ExpectedBenefit=0.432000", "Risk=0.048000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A2->P2]", "Advantage over next solution: 0.006000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 0.46799999999999997,
+    "risk" : 0.13199999999999998,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.40199999999999997,
+    "explanation" : [ "Score=0.402000", "ExpectedBenefit=0.468000", "Risk=0.132000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P2, A3->P4]", "Advantage over next solution: 0.018000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 0.45599999999999996,
+    "risk" : 0.144,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.38399999999999995,
+    "explanation" : [ "Score=0.384000", "ExpectedBenefit=0.456000", "Risk=0.144000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A2->P4, A3->P2]", "Advantage over next solution: 0.018000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 0.384,
+    "risk" : 0.036,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.366,
+    "explanation" : [ "Score=0.366000", "ExpectedBenefit=0.384000", "Risk=0.036000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P4, A2->P5]", "Advantage over next solution: 0.017000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 0.906,
+    "risk" : 0.11399999999999998,
+    "totalCost" : 10.0,
+    "softPenalty" : 0.0,
+    "score" : 0.3490000000000001,
+    "explanation" : [ "Score=0.349000", "ExpectedBenefit=0.906000", "Risk=0.114000", "TotalCost=10.000000", "SoftPenalty=0.000000", "Assignments=[A1->P1, A2->P4]", "Advantage over next solution: 0.001750" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 0.9215,
+    "risk" : 0.04850000000000004,
+    "totalCost" : 11.0,
+    "softPenalty" : 0.0,
+    "score" : 0.34724999999999995,
+    "explanation" : [ "Score=0.347250", "ExpectedBenefit=0.921500", "Risk=0.048500", "TotalCost=11.000000", "SoftPenalty=0.000000", "Assignments=[A1->P4, A3->P3]", "Advantage over next solution: 0.001250" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 1.254,
+    "risk" : 0.6160000000000001,
+    "totalCost" : 12.0,
+    "softPenalty" : 0.0,
+    "score" : 0.34599999999999986,
+    "explanation" : [ "Score=0.346000", "ExpectedBenefit=1.254000", "Risk=0.616000", "TotalCost=12.000000", "SoftPenalty=0.000000", "Assignments=[A1->P4, A2->P3, A3->P1]", "Advantage over next solution: 0.010000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 0.384,
+    "risk" : 0.09599999999999997,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.336,
+    "explanation" : [ "Score=0.336000", "ExpectedBenefit=0.384000", "Risk=0.096000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P2]", "Advantage over next solution: 0.005000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 0.894,
+    "risk" : 0.126,
+    "totalCost" : 10.0,
+    "softPenalty" : 0.0,
+    "score" : 0.33099999999999996,
+    "explanation" : [ "Score=0.331000", "ExpectedBenefit=0.894000", "Risk=0.126000", "TotalCost=10.000000", "SoftPenalty=0.000000", "Assignments=[A1->P1, A3->P4]", "Advantage over next solution: 0.010000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 0.354,
+    "risk" : 0.06599999999999999,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.321,
+    "explanation" : [ "Score=0.321000", "ExpectedBenefit=0.354000", "Risk=0.066000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P4, A3->P5]", "Advantage over next solution: 0.000000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 0.354,
+    "risk" : 0.066,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.32099999999999995,
+    "explanation" : [ "Score=0.321000", "ExpectedBenefit=0.354000", "Risk=0.066000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A2->P5, A3->P4]", "Advantage over next solution: 0.000750" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 0.9035,
+    "risk" : 0.06650000000000003,
+    "totalCost" : 11.0,
+    "softPenalty" : 0.0,
+    "score" : 0.3202499999999999,
+    "explanation" : [ "Score=0.320250", "ExpectedBenefit=0.903500", "Risk=0.066500", "TotalCost=11.000000", "SoftPenalty=0.000000", "Assignments=[A2->P4, A3->P3]", "Advantage over next solution: 0.003750" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 0.351,
+    "risk" : 0.069,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.3165,
+    "explanation" : [ "Score=0.316500", "ExpectedBenefit=0.351000", "Risk=0.069000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P5, A2->P4]", "Advantage over next solution: 0.011500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 1.6800000000000002,
+    "risk" : 0.55,
+    "totalCost" : 22.0,
+    "softPenalty" : 0.0,
+    "score" : 0.30500000000000016,
+    "explanation" : [ "Score=0.305000", "ExpectedBenefit=1.680000", "Risk=0.550000", "TotalCost=22.000000", "SoftPenalty=0.000000", "Assignments=[A1->P1, A2->P3, A3->P2]", "Advantage over next solution: 0.005000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A3",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 0.36,
+    "risk" : 0.12,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.3,
+    "explanation" : [ "Score=0.300000", "ExpectedBenefit=0.360000", "Risk=0.120000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A3->P2]", "Advantage over next solution: 0.001500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 0.33899999999999997,
+    "risk" : 0.08100000000000002,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.2985,
+    "explanation" : [ "Score=0.298500", "ExpectedBenefit=0.339000", "Risk=0.081000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P5, A3->P4]", "Advantage over next solution: 0.004500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 0.33599999999999997,
+    "risk" : 0.08399999999999998,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.294,
+    "explanation" : [ "Score=0.294000", "ExpectedBenefit=0.336000", "Risk=0.084000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A2->P4, A3->P5]", "Advantage over next solution: 0.008000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 1.134,
+    "risk" : 0.496,
+    "totalCost" : 12.0,
+    "softPenalty" : 0.0,
+    "score" : 0.2859999999999998,
+    "explanation" : [ "Score=0.286000", "ExpectedBenefit=1.134000", "Risk=0.496000", "TotalCost=12.000000", "SoftPenalty=0.000000", "Assignments=[A1->P2, A2->P3, A3->P5]", "Advantage over next solution: 0.013500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 1.125,
+    "risk" : 0.505,
+    "totalCost" : 12.0,
+    "softPenalty" : 0.0,
+    "score" : 0.27249999999999996,
+    "explanation" : [ "Score=0.272500", "ExpectedBenefit=1.125000", "Risk=0.505000", "TotalCost=12.000000", "SoftPenalty=0.000000", "Assignments=[A1->P5, A2->P3, A3->P2]", "Advantage over next solution: 0.007500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 0.81,
+    "risk" : 0.08999999999999998,
+    "totalCost" : 10.0,
+    "softPenalty" : 0.0,
+    "score" : 0.265,
+    "explanation" : [ "Score=0.265000", "ExpectedBenefit=0.810000", "Risk=0.090000", "TotalCost=10.000000", "SoftPenalty=0.000000", "Assignments=[A1->P1]", "Advantage over next solution: 0.010000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 0.27,
+    "risk" : 0.029999999999999992,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.255,
+    "explanation" : [ "Score=0.255000", "ExpectedBenefit=0.270000", "Risk=0.030000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A2->P5]", "Advantage over next solution: 0.018750" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A3",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 0.8075,
+    "risk" : 0.04250000000000004,
+    "totalCost" : 11.0,
+    "softPenalty" : 0.0,
+    "score" : 0.23624999999999996,
+    "explanation" : [ "Score=0.236250", "ExpectedBenefit=0.807500", "Risk=0.042500", "TotalCost=11.000000", "SoftPenalty=0.000000", "Assignments=[A3->P3]", "Advantage over next solution: 0.001250" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P1"
+    } ],
+    "expectedBenefit" : 1.1400000000000001,
+    "risk" : 0.6100000000000001,
+    "totalCost" : 12.0,
+    "softPenalty" : 0.0,
+    "score" : 0.235,
+    "explanation" : [ "Score=0.235000", "ExpectedBenefit=1.140000", "Risk=0.610000", "TotalCost=12.000000", "SoftPenalty=0.000000", "Assignments=[A2->P3, A3->P1]", "Advantage over next solution: 0.002500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 0.255,
+    "risk" : 0.045000000000000005,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.2325,
+    "explanation" : [ "Score=0.232500", "ExpectedBenefit=0.255000", "Risk=0.045000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P5]", "Advantage over next solution: 0.017500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 1.56,
+    "risk" : 0.49,
+    "totalCost" : 22.0,
+    "softPenalty" : 0.0,
+    "score" : 0.21499999999999986,
+    "explanation" : [ "Score=0.215000", "ExpectedBenefit=1.560000", "Risk=0.490000", "TotalCost=22.000000", "SoftPenalty=0.000000", "Assignments=[A1->P1, A2->P3, A3->P5]", "Advantage over next solution: 0.005000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A3",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 0.24,
+    "risk" : 0.059999999999999984,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.21,
+    "explanation" : [ "Score=0.210000", "ExpectedBenefit=0.240000", "Risk=0.060000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A3->P5]", "Advantage over next solution: 0.059000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 0.984,
+    "risk" : 0.466,
+    "totalCost" : 12.0,
+    "softPenalty" : 0.0,
+    "score" : 0.1509999999999999,
+    "explanation" : [ "Score=0.151000", "ExpectedBenefit=0.984000", "Risk=0.466000", "TotalCost=12.000000", "SoftPenalty=0.000000", "Assignments=[A1->P4, A2->P3, A3->P2]", "Advantage over next solution: 0.009000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 0.978,
+    "risk" : 0.472,
+    "totalCost" : 12.0,
+    "softPenalty" : 0.0,
+    "score" : 0.1419999999999999,
+    "explanation" : [ "Score=0.142000", "ExpectedBenefit=0.978000", "Risk=0.472000", "TotalCost=12.000000", "SoftPenalty=0.000000", "Assignments=[A1->P2, A2->P3, A3->P4]", "Advantage over next solution: 0.031000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 0.11399999999999999,
+    "risk" : 0.006000000000000005,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.11099999999999999,
+    "explanation" : [ "Score=0.111000", "ExpectedBenefit=0.114000", "Risk=0.006000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A1->P4]", "Advantage over next solution: 0.027000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 0.096,
+    "risk" : 0.023999999999999994,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.084,
+    "explanation" : [ "Score=0.084000", "ExpectedBenefit=0.096000", "Risk=0.024000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A2->P4]", "Advantage over next solution: 0.008000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P2"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 0.894,
+    "risk" : 0.436,
+    "totalCost" : 12.0,
+    "softPenalty" : 0.0,
+    "score" : 0.07599999999999996,
+    "explanation" : [ "Score=0.076000", "ExpectedBenefit=0.894000", "Risk=0.436000", "TotalCost=12.000000", "SoftPenalty=0.000000", "Assignments=[A1->P2, A2->P3]", "Advantage over next solution: 0.005000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 1.4040000000000001,
+    "risk" : 0.46599999999999997,
+    "totalCost" : 22.0,
+    "softPenalty" : 0.0,
+    "score" : 0.07100000000000017,
+    "explanation" : [ "Score=0.071000", "ExpectedBenefit=1.404000", "Risk=0.466000", "TotalCost=22.000000", "SoftPenalty=0.000000", "Assignments=[A1->P1, A2->P3, A3->P4]", "Advantage over next solution: 0.005000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A3",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 0.08399999999999999,
+    "risk" : 0.036000000000000004,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.06599999999999999,
+    "explanation" : [ "Score=0.066000", "ExpectedBenefit=0.084000", "Risk=0.036000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[A3->P4]", "Advantage over next solution: 0.005000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 0.864,
+    "risk" : 0.406,
+    "totalCost" : 12.0,
+    "softPenalty" : 0.0,
+    "score" : 0.06099999999999994,
+    "explanation" : [ "Score=0.061000", "ExpectedBenefit=0.864000", "Risk=0.406000", "TotalCost=12.000000", "SoftPenalty=0.000000", "Assignments=[A1->P4, A2->P3, A3->P5]", "Advantage over next solution: 0.021000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P2"
+    } ],
+    "expectedBenefit" : 0.87,
+    "risk" : 0.46,
+    "totalCost" : 12.0,
+    "softPenalty" : 0.0,
+    "score" : 0.039999999999999925,
+    "explanation" : [ "Score=0.040000", "ExpectedBenefit=0.870000", "Risk=0.460000", "TotalCost=12.000000", "SoftPenalty=0.000000", "Assignments=[A2->P3, A3->P2]", "Advantage over next solution: 0.001500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 0.849,
+    "risk" : 0.42100000000000004,
+    "totalCost" : 12.0,
+    "softPenalty" : 0.0,
+    "score" : 0.03849999999999987,
+    "explanation" : [ "Score=0.038500", "ExpectedBenefit=0.849000", "Risk=0.421000", "TotalCost=12.000000", "SoftPenalty=0.000000", "Assignments=[A1->P5, A2->P3, A3->P4]", "Advantage over next solution: 0.033500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P1"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 1.32,
+    "risk" : 0.43,
+    "totalCost" : 22.0,
+    "softPenalty" : 0.0,
+    "score" : 0.004999999999999893,
+    "explanation" : [ "Score=0.005000", "ExpectedBenefit=1.320000", "Risk=0.430000", "TotalCost=22.000000", "SoftPenalty=0.000000", "Assignments=[A1->P1, A2->P3]", "Advantage over next solution: 0.005000" ]
+  }, {
+    "assignments" : [ ],
+    "expectedBenefit" : 0.0,
+    "risk" : 0.0,
+    "totalCost" : 0.0,
+    "softPenalty" : 0.0,
+    "score" : 0.0,
+    "explanation" : [ "Score=0.000000", "ExpectedBenefit=0.000000", "Risk=0.000000", "TotalCost=0.000000", "SoftPenalty=0.000000", "Assignments=[]", "Advantage over next solution: 0.027500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P5"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 0.765,
+    "risk" : 0.385,
+    "totalCost" : 12.0,
+    "softPenalty" : 0.0,
+    "score" : -0.02750000000000008,
+    "explanation" : [ "Score=-0.027500", "ExpectedBenefit=0.765000", "Risk=0.385000", "TotalCost=12.000000", "SoftPenalty=0.000000", "Assignments=[A1->P5, A2->P3]", "Advantage over next solution: 0.022500" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P5"
+    } ],
+    "expectedBenefit" : 0.75,
+    "risk" : 0.4,
+    "totalCost" : 12.0,
+    "softPenalty" : 0.0,
+    "score" : -0.050000000000000044,
+    "explanation" : [ "Score=-0.050000", "ExpectedBenefit=0.750000", "Risk=0.400000", "TotalCost=12.000000", "SoftPenalty=0.000000", "Assignments=[A2->P3, A3->P5]", "Advantage over next solution: 0.099000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A1",
+      "candidateId" : "P4"
+    }, {
+      "resourceId" : "A2",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 0.624,
+    "risk" : 0.34600000000000003,
+    "totalCost" : 12.0,
+    "softPenalty" : 0.0,
+    "score" : -0.14900000000000013,
+    "explanation" : [ "Score=-0.149000", "ExpectedBenefit=0.624000", "Risk=0.346000", "TotalCost=12.000000", "SoftPenalty=0.000000", "Assignments=[A1->P4, A2->P3]", "Advantage over next solution: 0.045000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P3"
+    }, {
+      "resourceId" : "A3",
+      "candidateId" : "P4"
+    } ],
+    "expectedBenefit" : 0.594,
+    "risk" : 0.376,
+    "totalCost" : 12.0,
+    "softPenalty" : 0.0,
+    "score" : -0.19400000000000012,
+    "explanation" : [ "Score=-0.194000", "ExpectedBenefit=0.594000", "Risk=0.376000", "TotalCost=12.000000", "SoftPenalty=0.000000", "Assignments=[A2->P3, A3->P4]", "Advantage over next solution: 0.066000" ]
+  }, {
+    "assignments" : [ {
+      "resourceId" : "A2",
+      "candidateId" : "P3"
+    } ],
+    "expectedBenefit" : 0.51,
+    "risk" : 0.34,
+    "totalCost" : 12.0,
+    "softPenalty" : 0.0,
+    "score" : -0.2600000000000001,
+    "explanation" : [ "Score=-0.260000", "ExpectedBenefit=0.510000", "Risk=0.340000", "TotalCost=12.000000", "SoftPenalty=0.000000", "Assignments=[A2->P3]", "Best solution (no next)." ]
+  } ]
+}

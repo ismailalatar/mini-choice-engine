@@ -1,0 +1,47 @@
+{
+  "scenarioId": "ambulance-v1",
+  "resources": [
+    { "id": "A1", "type": "ambulance", "capacity": 1 },
+    { "id": "A2", "type": "ambulance", "capacity": 1 },
+    { "id": "A3", "type": "ambulance", "capacity": 1 }
+  ],
+  "candidates": [
+    { "id": "P1", "priority": 5, "severity": 0.90, "distance": 4.2 },
+    { "id": "P2", "priority": 4, "severity": 0.60, "distance": 2.1 },
+    { "id": "P3", "priority": 5, "severity": 0.85, "distance": 6.0 },
+    { "id": "P4", "priority": 2, "severity": 0.30, "distance": 1.0 },
+    { "id": "P5", "priority": 3, "severity": 0.50, "distance": 3.3 }
+  ],
+  "constraints": [
+    { "type": "MAX_ASSIGNMENTS_PER_RESOURCE", "value": 1 },
+    { "type": "MAX_TOTAL_ASSIGNMENTS", "value": 3 }
+  ],
+  "probabilities": [
+    { "resourceId": "A1", "candidateId": "P1", "success": 0.90 },
+    { "resourceId": "A1", "candidateId": "P2", "success": 0.80 },
+    { "resourceId": "A1", "candidateId": "P3", "success": 0.70 },
+    { "resourceId": "A1", "candidateId": "P4", "success": 0.95 },
+    { "resourceId": "A1", "candidateId": "P5", "success": 0.85 },
+
+    { "resourceId": "A2", "candidateId": "P1", "success": 0.85 },
+    { "resourceId": "A2", "candidateId": "P2", "success": 0.90 },
+    { "resourceId": "A2", "candidateId": "P3", "success": 0.60 },
+    { "resourceId": "A2", "candidateId": "P4", "success": 0.80 },
+    { "resourceId": "A2", "candidateId": "P5", "success": 0.90 },
+
+    { "resourceId": "A3", "candidateId": "P1", "success": 0.70 },
+    { "resourceId": "A3", "candidateId": "P2", "success": 0.75 },
+    { "resourceId": "A3", "candidateId": "P3", "success": 0.95 },
+    { "resourceId": "A3", "candidateId": "P4", "success": 0.70 },
+    { "resourceId": "A3", "candidateId": "P5", "success": 0.80 }
+  ],
+  "costs": [
+    { "resourceId": "A1", "candidateId": "P1", "cost": 10.0 },
+    { "resourceId": "A2", "candidateId": "P3", "cost": 12.0 },
+    { "resourceId": "A3", "candidateId": "P3", "cost": 11.0 }
+  ],
+  "objective": {
+    "type": "MAXIMIZE",
+    "weights": { "benefit": 1.0, "risk": 0.5, "cost": 0.05, "softPenalty": 1.0 }
+  }
+}
